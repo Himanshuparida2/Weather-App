@@ -60,14 +60,14 @@ body{
     left: 25px;
     font-size: 25px;
     top: 23px;
-    color: black;
+    color: beige;
 }
 #search-button{
     position: absolute;
     right: 25px;
     font-size: 27px;
     top: 23px;
-    color: black;
+    color: beige;
 }
 .weather-details{
     position: absolute;
